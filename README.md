@@ -1,30 +1,30 @@
- Learnixa
+# Learnixa
 
 An AI-based goal-oriented course recommendation system that helps learners find the right courses based on their goals, interests, and background — built as a final year project for BSc CSIT, Nepathya College, Tribhuvan University.
 
- Demo
+## Demo
 
-https://youtu.be/QjPYTLdf6vM
+https://github.com/user-attachments/assets/05b73661-2cb4-4e64-bf8f-fa14a085ce56
 
-Overview
+## Overview
 
 Learnixa recommends personalized learning paths using an AI engine built on clustering, filtering, and cosine similarity — matching users to courses that actually fit their goals instead of generic catalog browsing. The platform supports both learner and admin flows, including course management and recommendation delivery.
 
-Tech Stack
+## Tech Stack
 
 - **Frontend:** React (Vite)
 - **Backend:** Node.js, Express
 - **Database:** MySQL
 - **AI/Recommendation Engine:** Clustering, filtering, cosine similarity
 
-Features
+## Features
 
 - Goal-oriented course recommendations powered by an AI engine
 - User authentication and profile-based learning paths
 - Admin dashboard for managing courses and users
 - Clean, responsive UI built with React
 
- Project Structure
+## Project Structure
 
 learnixa/
 ├── learnixa-backend/ # Node.js + Express API
