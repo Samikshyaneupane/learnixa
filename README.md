@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/05b73661-2cb4-4e64-bf8f-fa14a085ce56
 
 ## Overview
 
-Learnixa recommends personalized learning paths using an AI engine built on clustering, filtering, and cosine similarity — matching users to courses that actually fit their goals instead of generic catalog browsing. The platform supports both learner and admin flows, including course management and recommendation delivery.
+Learnixa recommends personalized learning paths  using an AI engine built on clustering, filtering, and cosine similarity — matching users to courses that actually fit their goals instead of generic catalog browsing. The platform supports both learner and admin flows, including course management and recommendation delivery.
 
 ## Tech Stack
 
